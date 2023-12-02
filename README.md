@@ -1,4 +1,3 @@
-
 # JeriPy
 
 JeriPy es una librería que permite la traducción de español a jerigonzo y de jerigonzo a español.
@@ -30,7 +29,7 @@ pip install -r requirements.txt
 Para instalar la librería ejecutar el siguiente comando en terminal.
 
 ```bash
-pip install JeriPy
+git clone https://github.com/Felipe1401/JeriPy.git
 ```
 
 ## Uso
