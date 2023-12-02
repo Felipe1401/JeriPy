@@ -1,0 +1,4 @@
+# Requisitos para el proyecto
+
+# Paquete de Python necesario
+pyphen

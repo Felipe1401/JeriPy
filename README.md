@@ -14,8 +14,16 @@ Para más información sobre el jerigonzo consultar [aquí](https://es.wikipedia
 
 ## Requisitos
 
+Los requisitos necesarios para la utilización de la librería son:
+
 - Python >= 3.6
 - pyphen
+
+Para instalar los requisitos ejecutar el siguiente comando en terminal.
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Instalación
 
