@@ -1,15 +1,21 @@
 
 # JeriPy
 
-JeriPy es una librería que permite la traducción de español a Jerigonzo y de jerigonzo a español.
+JeriPy es una librería que permite la traducción de español a jerigonzo y de jerigonzo a español.
 
-Para más información sobre el Jerigonzo consultar [aquí](https://es.wikipedia.org/wiki/Jerigonza).
+Para más información sobre el jerigonzo consultar [aquí](https://es.wikipedia.org/wiki/Jerigonza).
 
 ## Índice
 
+- [Requisitos](#requisitos)
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Licencia](#licencia)
+
+## Requisitos
+
+- Python >= 3.6
+- pyphen
 
 ## Instalación
 
@@ -25,12 +31,12 @@ Ejemplos:
 
 ```python
 espanol_a_jeringozo("Hola")
-> hopolapa
+> Hopolapa
 ```
 
 ```python
 jeringozo_a_espanol("Hopolapa")
-> hola
+> Hola
 ```
 
 ## Licencia
