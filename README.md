@@ -29,7 +29,7 @@ pip install -r requirements.txt
 Para instalar la librería ejecutar el siguiente comando en terminal.
 
 ```bash
-git clone https://github.com/Felipe1401/JeriPy.git
+pip install JeriPy
 ```
 
 ## Uso
