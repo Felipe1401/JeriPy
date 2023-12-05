@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='JeriPy',
     packages=find_packages(),
-    version='0.1.0',
+    version='0.1.1',
     author='Felipe Gomez',
     author_email='felipenicolasgomezmolina@gmail.com',
     description='JeriPy es una libreria que permite la traducción de espanol a Jerigonzo y de jerigonzo a espanol.',
